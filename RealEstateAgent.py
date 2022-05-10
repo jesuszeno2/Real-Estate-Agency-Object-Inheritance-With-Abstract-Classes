@@ -1,5 +1,5 @@
 """
-Jesus Zeno SIE508 Assignment 4
+Jesus Zeno
 This file has only one minor edit from the previous assignment. For loop in ListProperties had the try
 except block modified to match the methods of the update property file.
 This class holds a list of real estate agents and can print that list. We can also use the methods to
