@@ -1,6 +1,6 @@
 """
-Jesus Zeno SIE 508 Assignment 4
-This is a modification of the third assignment.
+Jesus Zeno
+This is a modification of another assignment.
 We will make an abstract parent property class that will have certain attributes. House and apartment
 will be children classes of property. There are Purchase and Rental classes. HousePurchase, HouseRental,
 ApartmentPurchase, and ApartmentRental will be child classes of multiple inheritance from a combination
