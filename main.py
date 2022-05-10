@@ -1,5 +1,5 @@
 """
-Jesus Zeno SIE508 Assignment 4
+Jesus Zeno SIE508
 This main program uses the class RealEstateAgent along with HousePurchase, HouseRental, ApartmentRental,
 ApartmentPurchase. See property file for hierarchical structure of multiple inheritance classes.
 Together they make a list of real estate agents and display all the agents as well as the
